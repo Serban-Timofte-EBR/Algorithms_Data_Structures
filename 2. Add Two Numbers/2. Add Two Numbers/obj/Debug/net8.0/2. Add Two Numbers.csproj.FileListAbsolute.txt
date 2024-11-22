@@ -1,0 +1,14 @@
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/bin/Debug/net8.0/2. Add Two Numbers
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/bin/Debug/net8.0/2. Add Two Numbers.deps.json
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/bin/Debug/net8.0/2. Add Two Numbers.runtimeconfig.json
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/bin/Debug/net8.0/2. Add Two Numbers.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/bin/Debug/net8.0/2. Add Two Numbers.pdb
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/2. Add Two Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/2. Add Two Numbers.AssemblyInfoInputs.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/2. Add Two Numbers.AssemblyInfo.cs
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/2. Add Two Numbers.csproj.CoreCompileInputs.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/2. Add Two Numbers.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/refint/2. Add Two Numbers.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/2. Add Two Numbers.pdb
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/2. Add Two Numbers.genruntimeconfig.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/2. Add Two Numbers/2. Add Two Numbers/obj/Debug/net8.0/ref/2. Add Two Numbers.dll

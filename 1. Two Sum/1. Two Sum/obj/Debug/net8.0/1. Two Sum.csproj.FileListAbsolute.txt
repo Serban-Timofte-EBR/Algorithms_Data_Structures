@@ -1,0 +1,14 @@
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum.deps.json
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum.runtimeconfig.json
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/bin/Debug/net8.0/1. Two Sum.pdb
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.AssemblyInfoInputs.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.AssemblyInfo.cs
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.csproj.CoreCompileInputs.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/refint/1. Two Sum.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.pdb
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/1. Two Sum.genruntimeconfig.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/1. Two Sum/1. Two Sum/obj/Debug/net8.0/ref/1. Two Sum.dll

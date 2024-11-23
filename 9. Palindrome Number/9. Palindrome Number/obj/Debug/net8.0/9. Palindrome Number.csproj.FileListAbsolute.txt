@@ -1,0 +1,15 @@
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.deps.json
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.runtimeconfig.json
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/bin/Debug/net8.0/9. Palindrome Number.pdb
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.AssemblyInfoInputs.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.AssemblyInfo.cs
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.csproj.CoreCompileInputs.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.sourcelink.json
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/refint/9. Palindrome Number.dll
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.pdb
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/9. Palindrome Number.genruntimeconfig.cache
+/Users/serbantimofte/Documents/Codes/Algorithms_Data_Structures/9. Palindrome Number/9. Palindrome Number/obj/Debug/net8.0/ref/9. Palindrome Number.dll
